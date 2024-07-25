@@ -1,0 +1,119 @@
+  *{
+        margin: 0%;
+        padding: 0;
+    }
+    .container{
+        height: 100vh;
+        width: 100vw;
+        background-color: rgb(243, 243, 244);
+      }
+      .header{
+        height: 100px;
+        width: 100vw;
+        background-color:  rgb(95, 120, 63);
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        text-align: center;
+        align-content: center;
+      }
+     
+      .body{
+      
+        display: flex;
+        justify-content: space-between;
+        
+      }
+      .left{
+        background-color:  rgb(95, 120, 63);
+        height: 60vh;
+        width: 300px;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        margin-left: 40px;
+        color: white;
+        font-size: 30px;
+        text-align:center ;
+        align-items: center;
+      }
+      .right{
+        background-color: rgb(95, 120, 63);
+        height: 60vh;
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        margin-right: 40px;
+      }
+    
+      .boxes{
+        display: flex;
+        align-items: end;
+        width: 100vw;
+        justify-content: space-between;
+        padding: 20px;
+       
+      }
+      .box1{
+        
+        height: 140px;
+        width:100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        background-image:url(./Images/pictures/brown\ cat.jpeg.jpg);
+        background-size: cover;
+       
+      }
+      .box2{
+        
+        height: 140px;
+        width:100px;
+        display: flex;
+        justify-content: space-between;
+        background-image:url(./Images/pictures/brown\ cat.jpeg.jpg);
+        background-size: cover;
+      }
+        
+    .box3{
+         
+        height: 140px;
+        width:100px;
+        display: flex;
+        justify-content: space-between;
+        background-image:url(./Images/pictures/brown\ cat.jpeg.jpg);
+        background-size: cover;
+    }
+    .footer{
+        background-color: rgb(95, 120, 63);
+        height: 100px;
+        width: 100vw;
+     margin-top: 40px;
+     color: white;
+     text-align: center;  
+     font-size: 30px;
+     align-content: center;
+  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
